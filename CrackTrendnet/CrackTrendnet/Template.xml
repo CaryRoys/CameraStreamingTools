@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Probe>
+	<Uuid></Uuid>
+	<Types>update</Types>
+	<MAC></MAC>
+	<Password></Password>
+	<IPv4Address></IPv4Address>
+	<CommandPort>8000</CommandPort>
+	<HttpPort>80</HttpPort>
+	<IPv4SubnetMask></IPv4SubnetMask>
+	<IPv4Gateway></IPv4Gateway>
+	<IPv6Address>::</IPv6Address>
+	<IPv6Gateway>::</IPv6Gateway>
+	<IPv6MaskLen>0</IPv6MaskLen>
+	<DHCP>false</DHCP>
+</Probe>
